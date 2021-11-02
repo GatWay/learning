@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:focus, :active {
+    outline: 1px black;
+}
